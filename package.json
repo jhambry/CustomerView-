@@ -1,0 +1,26 @@
+{
+  "name": "customerview-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^6.5.0",
+    "mysql": "^2.17.1",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhambry/CustomerView-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhambry/CustomerView-/issues"
+  },
+  "homepage": "https://github.com/jhambry/CustomerView-#readme"
+}
